@@ -1,0 +1,13 @@
+# Compiled Java files
+*.class
+
+# NetBeans build output
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
